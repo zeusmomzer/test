@@ -12219,7 +12219,7 @@ div.r-who-we-outer {
     .r-advantages-part .r-advantage-main-part .r-advantages-box .head {
       font-size: 20px;
       color: #333;
-      opacity: 1;
+      opacity: 1!important;
       font-weight: 500;
       -webkit-transition: all 0.3s linear;
       -moz-transition: all 0.3s linear;
